@@ -1,0 +1,8 @@
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Release\Picaso.exe.config
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Release\Picaso.exe
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Release\Picaso.pdb
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Release\Picaso.Form1.resources
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Release\Picaso.Properties.Resources.resources
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Release\Picaso.csproj.GenerateResource.Cache
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Release\Picaso.exe
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Release\Picaso.pdb

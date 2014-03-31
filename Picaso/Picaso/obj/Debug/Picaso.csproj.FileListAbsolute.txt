@@ -1,0 +1,9 @@
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Debug\Picaso.exe.config
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Debug\Picaso.exe
+D:\Code\Sources\OOP_univer\Picaso\Picaso\bin\Debug\Picaso.pdb
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.csprojResolveAssemblyReference.cache
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.Form1.resources
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.Properties.Resources.resources
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.csproj.GenerateResource.Cache
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.exe
+D:\Code\Sources\OOP_univer\Picaso\Picaso\obj\Debug\Picaso.pdb
